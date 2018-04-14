@@ -12,7 +12,7 @@ Because I could not found any solution satisfying my needs I decided to make my 
 The Keyboard driver I prepared has also another advantage. I can type german and polish special characters without switching between keyboard layouts.
 In order to resolve the issue with the € character I mapped the key R to input € and the combination AltGr-e produces polish ę.
 
-The installation program with could be downloaded ![here](resources/qwertz_pl.zip).
+The installation program with could be downloaded here [qwertz_pl.zip](resources/qwertz_pl.zip).
 
 Unzip it in the directory of your choice and start setup.exe. The new keyboard will be added to the input services in the Regional and Language Options:
 
